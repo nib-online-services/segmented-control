@@ -1,0 +1,4 @@
+segmented-control
+=================
+
+Segmented control.
